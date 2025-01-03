@@ -1,0 +1,263 @@
+[
+    {
+        "id": "1",
+        "title": "Mountain Expedition",
+        "image": "https://i.ibb.co.com/y8wfRLX/hiker-GRTE-NPS.jpg",
+        "categoryName": "Hiking",
+        "shortDescription": "Explore the majestic mountain peaks.",
+        "adventureCost": 300,
+        "bookingAvailability": "Available",
+        "location": "Rocky Mountains, USA",
+        "duration": "3 days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Guide",
+            "Meals",
+            "Equipment",
+            "First Aid"
+        ],
+        "ecoFriendlyFeatures": [
+            "No plastic usage",
+            "Leave no trace policy"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Wear sturdy boots",
+            "Bring a water bottle"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Ocean Diving Adventure",
+        "image": "https://i.ibb.co.com/yfcPjzs/download.jpg",
+        "categoryName": "Diving",
+        "shortDescription": "Discover the wonders beneath the ocean.",
+        "adventureCost": 500,
+        "bookingAvailability": "Limited",
+        "location": "Great Barrier Reef, Australia",
+        "duration": "2 days",
+        "adventureLevel": "Advanced",
+        "includedItems": [
+            "Diving gear",
+            "Snacks",
+            "Professional diver"
+        ],
+        "ecoFriendlyFeatures": [
+            "Marine-safe diving",
+            "Eco-friendly sunscreen provided"
+        ],
+        "maxGroupSize": 6,
+        "specialInstructions": [
+            "Must have diving certification",
+            "Avoid touching marine life"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Rainforest Trek",
+        "image": "https://i.ibb.co.com/64GTyT3/download.jpg",
+        "categoryName": "Trekking",
+        "shortDescription": "Immerse yourself in the lush greenery of the rainforest.",
+        "adventureCost": 400,
+        "bookingAvailability": "Available",
+        "location": "Amazon Rainforest, Brazil",
+        "duration": "4 days",
+        "adventureLevel": "Moderate",
+        "includedItems": [
+            "Guide",
+            "Camping gear",
+            "Meals"
+        ],
+        "ecoFriendlyFeatures": [
+            "Local guides",
+            "Support indigenous communities"
+        ],
+        "maxGroupSize": 12,
+        "specialInstructions": [
+            "Carry insect repellent",
+            "Wear light breathable clothing"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Desert Safari",
+        "image": "https://i.ibb.co.com/VCkjdFw/download.jpg",
+        "categoryName": "Safari",
+        "shortDescription": "Experience the serene beauty of the desert.",
+        "adventureCost": 250,
+        "bookingAvailability": "Available",
+        "location": "Sahara Desert, Morocco",
+        "duration": "2 days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Camel ride",
+            "Meals",
+            "Guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "Biodegradable waste handling",
+            "Solar-powered camps"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Bring sunscreen",
+            "Pack warm clothes for the night"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Island Kayaking",
+        "image": "https://i.ibb.co.com/YjP4wQc/download.jpg",
+        "categoryName": "Water Sports",
+        "shortDescription": "Paddle through crystal-clear waters around islands.",
+        "adventureCost": 150,
+        "bookingAvailability": "Available",
+        "location": "Phuket, Thailand",
+        "duration": "1 day",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Kayak",
+            "Life jacket",
+            "Snacks"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-friendly kayaks",
+            "Plastic-free meals"
+        ],
+        "maxGroupSize": 5,
+        "specialInstructions": [
+            "Carry waterproof gear",
+            "Follow guide instructions"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Volcano Hike",
+        "image": "https://i.ibb.co.com/LQbQ9Hh/download.jpg",
+        "categoryName": "Hiking",
+        "shortDescription": "Hike up an active volcano for breathtaking views.",
+        "adventureCost": 350,
+        "bookingAvailability": "Limited",
+        "location": "Mount Etna, Italy",
+        "duration": "2 days",
+        "adventureLevel": "Advanced",
+        "includedItems": [
+            "Guide",
+            "Meals",
+            "Safety gear"
+        ],
+        "ecoFriendlyFeatures": [
+            "Local produce meals",
+            "Minimal-impact trails"
+        ],
+        "maxGroupSize": 7,
+        "specialInstructions": [
+            "Wear heat-resistant boots",
+            "Stay hydrated"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Glacier Trek",
+        "image": "https://i.ibb.co.com/yd9kTkf/download.jpg",
+        "categoryName": "Trekking",
+        "shortDescription": "Walk on ice in a surreal icy landscape.",
+        "adventureCost": 450,
+        "bookingAvailability": "Available",
+        "location": "Iceland",
+        "duration": "3 days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Crampons",
+            "Warm meals",
+            "Expert guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "Leave no trace policy",
+            "Sustainable transport"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Wear layers",
+            "Use provided ice gear"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Wildlife Safari",
+        "image": "https://i.ibb.co.com/qWHNQJm/download.jpg",
+        "categoryName": "Safari",
+        "shortDescription": "Spot exotic wildlife in their natural habitat.",
+        "adventureCost": 600,
+        "bookingAvailability": "Limited",
+        "location": "Masai Mara, Kenya",
+        "duration": "5 days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Accommodation",
+            "Meals",
+            "Safari guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-lodges",
+            "Wildlife conservation support"
+        ],
+        "maxGroupSize": 15,
+        "specialInstructions": [
+            "Carry binoculars",
+            "Follow safety guidelines"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Cave Exploration",
+        "image": "https://i.ibb.co.com/RBRMByy/download.jpg",
+        "categoryName": "Caving",
+        "shortDescription": "Discover hidden caves and underground wonders.",
+        "adventureCost": 200,
+        "bookingAvailability": "Available",
+        "location": "Carlsbad Caverns, USA",
+        "duration": "1 day",
+        "adventureLevel": "Moderate",
+        "includedItems": [
+            "Helmet",
+            "Headlamp",
+            "Guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "No damage to cave ecosystems",
+            "Eco-friendly equipment"
+        ],
+        "maxGroupSize": 6,
+        "specialInstructions": [
+            "Wear durable clothing",
+            "Carry extra batteries"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Forest Camping",
+        "image": "https://i.ibb.co.com/8BbYRhZ/download.jpg",
+        "categoryName": "Camping",
+        "shortDescription": "Relax in the heart of nature with a campfire.",
+        "adventureCost": 180,
+        "bookingAvailability": "Available",
+        "location": "Black Forest, Germany",
+        "duration": "2 days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Tent",
+            "Meals",
+            "Campfire setup"
+        ],
+        "ecoFriendlyFeatures": [
+            "Reusable utensils",
+            "Firewood from sustainable sources"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Pack a sleeping bag",
+            "Follow campfire safety rules"
+        ]
+    }
+]

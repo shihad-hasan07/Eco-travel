@@ -1,0 +1,26 @@
+[
+    {
+        "img": "https://i.ibb.co.com/DVzYFxx/pexels-bycmdcrey-13458330.jpg",
+        "explore": "https://www.himalayanglacier.com/top-15-mountain-expeditions-in-the-world/",
+        "adventureName": "Mountain Expedition",
+        "details": "Embark on a breathtaking journey through towering peaks and serene valleys."
+    },
+    {
+        "img": "https://i.ibb.co.com/hVZyd1K/pexels-hussain-naushad-164965004-19715450.jpg",
+        "explore": "https://oceanservice.noaa.gov/recreation/diving/",
+        "adventureName": "Ocean Diving Adventure",
+        "details": "Dive into the crystal-clear waters and discover the vibrant marine life below."
+    },
+    {
+        "img": "https://i.ibb.co.com/d28QrTs/pexels-pham-ngoc-anh-170983008-13900922.jpg",
+        "explore": "https://silverlight.store/posts/best-rainforest-trails/",
+        "adventureName": "Rainforest Trek",
+        "details": "Immerse yourself in the rich biodiversity and lush greenery of the rainforest."
+    },
+    {
+        "img": "https://i.ibb.co.com/sgStFhs/pexels-cliford-mervil-988071-2398220.jpg",
+        "explore": "https://www.desertsafaridubai.com/",
+        "adventureName": "Desert Safari",
+        "details": "Experience the golden sands and mesmerizing sunsets of the desert."
+    }
+]
